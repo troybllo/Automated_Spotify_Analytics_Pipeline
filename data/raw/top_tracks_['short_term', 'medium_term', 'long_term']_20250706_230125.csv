@@ -1,0 +1,51 @@
+rank,time_range,track_id,track_name,artist_ids,artist_names,album_id,album_name,duration_ms,popularity,explicit,extracted_at
+1,medium_term,76yJsfb1CUy5Um8nFL7jKQ,OPM BABI,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,173076,71,True,2025-07-06T23:01:25.647365
+2,medium_term,5TsoJj7bFoBbtfYfHpwThH,Inferno,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,156412,60,True,2025-07-06T23:01:25.647392
+3,medium_term,4uoADk7q83CHvXHW3k1etM,OLYMPIAN,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,174733,75,True,2025-07-06T23:01:25.647399
+4,medium_term,4zK082ykqJzJGzC64NXjp1,LIKE WEEZY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,115600,75,True,2025-07-06T23:01:25.647424
+5,medium_term,754kgU5rWscRTfvlsuEwFp,Kiss Me,0lJlKQvuM2Sd9DPPyUXcHg,Sixpence None The Richer,0PrcwzkQVEy4y6JPvT5bix,Sixpence None The Richer,208680,87,False,2025-07-06T23:01:25.647434
+6,medium_term,3j3SfV4hAcR4XjCvW393Gr,POP OUT,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,161738,71,True,2025-07-06T23:01:25.647441
+7,medium_term,2pC3bWbbDBGkn1l6Zpytvc,popstar,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,1sl7QnYBjvTfYofuhh1KDw,popstar,100420,55,True,2025-07-06T23:01:25.647447
+8,medium_term,0A5QC5r1AMUccnd34pOlzs,sol,5A7T1LAGJg5NXySBoIKUmF,Che,2V8w3aCddJJbujHgn95Hx7,closed captions,135255,57,True,2025-07-06T23:01:25.647453
+9,medium_term,7aURTqVzpZxkJfboCvGc69,LiveLeak,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,190541,67,True,2025-07-06T23:01:25.647459
+10,medium_term,0EMaW6H0JkB84B8ebkkDrI,Money Spread,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,105191,63,True,2025-07-06T23:01:25.647465
+11,medium_term,5c53wRvjzKaFBPd8cW06EX,Luv - Bonus,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,02Mi6lld23cYcBeXbUbo0s,Jump Out (Bonus Tracks),115994,51,True,2025-07-06T23:01:25.647470
+12,medium_term,5tRylsadMpm8TydUgq7NWj,OVERLY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,105902,68,True,2025-07-06T23:01:25.647476
+13,medium_term,5xNV2RwrVjEo4zEjum9aLh,plaqueboymax im coolin,6hqaTEhJYyCNZmJbONtCst,plaqboi,2J3U3QskqiHtBkLnEa7AtL,plaqueboymax im coolin,87632,25,True,2025-07-06T23:01:25.647481
+14,medium_term,0bVeK0Qfg6EIGUXC5PPUMc,Stick,7DBte61KxmRj3urB9gQars,trpdd,0mSkeMLBvt2ttbzUGlbiRC,Stick,167581,39,True,2025-07-06T23:01:25.647486
+15,medium_term,3qOJebD6l8ONfeFFaEg1kU,Psycho,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,138101,62,True,2025-07-06T23:01:25.647491
+16,medium_term,1DMTyFMrrY1TZ3SwBmfkku,Break Da News,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,99096,50,True,2025-07-06T23:01:25.647497
+17,medium_term,52ASM4YffCSH3h1m4bQb1e,Room 156,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,113642,57,True,2025-07-06T23:01:25.647502
+18,medium_term,4c1LjGTCF8kMEikirzFgkm,toxic,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),165353,62,True,2025-07-06T23:01:25.647507
+19,medium_term,2ydagYqcyFfRtQPzKc5E8l,I SEEEEEE YOU BABY BOI,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,158896,70,True,2025-07-06T23:01:25.647512
+20,medium_term,79mFFAOYcG8ZF6AN1JecAL,FINE SHIT,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,106753,73,True,2025-07-06T23:01:25.647517
+21,medium_term,7bO7a1KrtmGNDIOy2u3siZ,FOMDJ,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,7sFZGbkCitoqQz7Rt3LoKg,MUSIC - SORRY 4 DA WAIT,200253,75,True,2025-07-06T23:01:25.647522
+22,medium_term,1WmBVbFmLt0w6zPP37TeCG,Illegal,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,3o81FH5FTYVtoBQOZr3T7y,Fancy That,149666,87,False,2025-07-06T23:01:25.647527
+23,medium_term,5Qya13gFXqupr4sSmZMKDg,WALK,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,94411,65,True,2025-07-06T23:01:25.647532
+24,medium_term,3loZeLVTG8DjJLjMbnge2t,double whammy (ss3bby yaridubz),2oM7LMPFu882oC6jSwEqjd,xaviersobased,0Oo0LauukZP2mXWR1n4exK,double whammy (ss3bby yaridubz),121357,60,True,2025-07-06T23:01:25.647537
+25,medium_term,0rNgWFQJtfttOYIHfDOHCg,BACKD00R (feat. Kendrick Lamar & Jhené Aiko),"699OTQXzgjhIYAHMy9RyPD,2YZyLoL8N0Wb9xBt1NhZWg,5ZS223C6JyBfXasXxrRqOk","Playboi Carti,Kendrick Lamar,Jhené Aiko",0fSfkmx0tdPqFYkJuNX74a,MUSIC,190053,74,True,2025-07-06T23:01:25.647544
+26,medium_term,3uJ1OBbQVLmrzzCaWGYLxr,Dismantled,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,144421,59,True,2025-07-06T23:01:25.647550
+27,medium_term,5wotbFovMedDXEMKC4DrHf,Nightcore,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,187048,58,True,2025-07-06T23:01:25.647555
+28,medium_term,7cHhlnawdN87aZbjO6LMRN,SOUTH ATLANTA BABY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,133259,67,True,2025-07-06T23:01:25.647559
+29,medium_term,1bAv1DWUibxCIjAk9SlzRi,2024,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,7sFZGbkCitoqQz7Rt3LoKg,MUSIC - SORRY 4 DA WAIT,209413,74,True,2025-07-06T23:01:25.647565
+30,medium_term,1COq4M4wLZ2H9op9BzpxbG,Evolution,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,193704,60,True,2025-07-06T23:01:25.647570
+31,medium_term,5116BQqgzOZ24Dx0ZKkagU,delusional,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,2LHNo0LDY2AszQvSuAMXWy,delusional,131274,66,True,2025-07-06T23:01:25.647575
+32,medium_term,6kFVxkQeyPZEdxdRZ0XVfR,Grandson,7GuUYiGZOzQwq4L6gAfy1T,SahBabii,3LALBNNkDv4cEwnUuciMkS,Saaheem (A Lu Bit More),164571,38,True,2025-07-06T23:01:25.647580
+33,medium_term,2zhOFpI6w9Dyt3d5wpFWSE,Fool,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,125562,57,True,2025-07-06T23:01:25.647585
+34,medium_term,0BLVfQR8oP4uBPJT5pSe0X,Jumpout,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,102019,49,True,2025-07-06T23:01:25.647591
+35,medium_term,6yyJWnLSvqhFLYqd4YXlaA,She Need A Ride,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,104800,52,True,2025-07-06T23:01:25.647596
+36,medium_term,2Tif3Rjua8qfTCUFP6lFrV,Lord Of Chaos,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,121957,67,True,2025-07-06T23:01:25.647601
+37,medium_term,6xZYGIixR3zhhOHwu7UEMY,mewtwo,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),128000,69,True,2025-07-06T23:01:25.647606
+38,medium_term,03KMREYSdftKwDBKoqTe3z,Round Of Applause,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,117615,50,True,2025-07-06T23:01:25.647611
+39,medium_term,1M0UHcttHe60N8fe72V7jD,I Got The Fye,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,5Vb4K4Xf4KPFupmhHi5COM,Jump Out,151898,55,True,2025-07-06T23:01:25.647626
+40,medium_term,2Btwp0WpJKP8WZMbNdHNQO,Catch me if u can,5hv30sKujjm0PyqD2j4v9n,Lil O,48E9w9HqDD1hRuR9X3fixv,Leaks Tape (Vol. 2),96624,39,True,2025-07-06T23:01:25.647631
+41,medium_term,6fODBIJuXEZxrZkcX4BpOJ,1of1,1EM110Ljwqga6grZH2Dym3,Hardrock,1uDRSDtUULUbusMjtRrwKi,1of1,124000,54,True,2025-07-06T23:01:25.647636
+42,medium_term,240K86W7ysqLlNG9NS7cvQ,Lookbook,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,4Pangd3z0ZrONFpx3zMrFK,XTENDED,150318,59,True,2025-07-06T23:01:25.647649
+43,medium_term,3surY3LebvLLdJezmiKUBO,TWIN TRIM (with Lil Uzi Vert),"699OTQXzgjhIYAHMy9RyPD,4O15NlyKLIASxsJ0PrXPfz","Playboi Carti,Lil Uzi Vert",0fSfkmx0tdPqFYkJuNX74a,MUSIC,94825,70,True,2025-07-06T23:01:25.647656
+44,medium_term,7GK7Rwoc1kia9GvZ31fICE,Silver Lining,73BLwSX6gsNeVzS7DgI4xe,grentperez,2G2NSV9SHG1WlgL4u5qZ9w,When We Were Younger,219219,61,False,2025-07-06T23:01:25.647662
+45,medium_term,4LmXHtUfJG1WkRLtLTMkFU,When i’m gone,1RzVNEaHBp6O1tK9NgjnbT,echstacy,4U4IZ8Q8rfGrqrHoeRXLfw,When i’m gone,106091,56,False,2025-07-06T23:01:25.647667
+46,medium_term,6hXYfad8bQCIrjBrOSfyOV,5.6,5hv30sKujjm0PyqD2j4v9n,Lil O,48E9w9HqDD1hRuR9X3fixv,Leaks Tape (Vol. 2),119253,42,True,2025-07-06T23:01:25.647679
+47,medium_term,4jpDSTxE9Z890BiWh5KpIy,my bad bro,4M5b70A8aORXdyJVjRJ8du,Fimiguerrero,4v5Qe0knp4UtrNsB3PMfWm,my bad bro,74789,59,True,2025-07-06T23:01:25.647685
+48,medium_term,6xRWoYwfwIKnT8bQGzKbxR,God Is,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0FgZKfoU2Br5sHOfvZKTI9,JESUS IS KING,203141,79,False,2025-07-06T23:01:25.647697
+49,medium_term,0Vige5jUDF3YDLMuvdbjAo,All Star,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,075lV4wdtLwFvIvCUdSYhL,Flex Musix,121690,58,True,2025-07-06T23:01:25.647702
+50,medium_term,0oyPwdglM96uacIdupYg4y,patchmade,"2oM7LMPFu882oC6jSwEqjd,7smgPUuittF6aqiiGNK3U0","xaviersobased,kashpaint",1Jzgh15qCiGPlTbtvxHkFw,install,112848,53,True,2025-07-06T23:01:25.647708

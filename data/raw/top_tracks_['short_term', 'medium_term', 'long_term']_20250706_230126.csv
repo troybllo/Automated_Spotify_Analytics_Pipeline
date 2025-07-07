@@ -1,0 +1,51 @@
+rank,time_range,track_id,track_name,artist_ids,artist_names,album_id,album_name,duration_ms,popularity,explicit,extracted_at
+1,long_term,6xZYGIixR3zhhOHwu7UEMY,mewtwo,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),128000,69,True,2025-07-06T23:01:26.537879
+2,long_term,76yJsfb1CUy5Um8nFL7jKQ,OPM BABI,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,173076,71,True,2025-07-06T23:01:26.537904
+3,long_term,6XfdWZJTAv750YyMGSjO3y,Swag Overload,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,4Pangd3z0ZrONFpx3zMrFK,XTENDED,152368,62,True,2025-07-06T23:01:26.537910
+4,long_term,5wotbFovMedDXEMKC4DrHf,Nightcore,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,187048,58,True,2025-07-06T23:01:26.537969
+5,long_term,6kXrehR4g6Mkr1qwEDgrLh,Inferno,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,3tIS7SDlvbyJ0oFQzNqjco,More Chaos,156412,57,True,2025-07-06T23:01:26.537980
+6,long_term,2pcv4nUQqaZnJk1kYvCfXV,Succubus,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,149892,70,True,2025-07-06T23:01:26.538060
+7,long_term,2dR3ydAu2XGjM8KhFuZiWd,GET IN,"1O8X4zxUh4AdAPFttOTlLr,5LMK9FXaAjzjtbiWnoVIXE","Thouxanbanfauni,Maxx Kenif",1YNlFd8VyCI01qyJFhcGH2,GET IN,137247,40,True,2025-07-06T23:01:26.538072
+8,long_term,459TcVn4q9fN9NJe29RmjL,Free Young Thug,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",6vlzHLRHhhQWKhIsxsbH5P,Lost Files 4,149616,37,True,2025-07-06T23:01:26.538079
+9,long_term,4c1LjGTCF8kMEikirzFgkm,toxic,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),165353,62,True,2025-07-06T23:01:26.538084
+10,long_term,2c7sRekhMGlj7u1WIIzoQu,Fighting My Demons,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,150401,78,True,2025-07-06T23:01:26.538090
+11,long_term,5116BQqgzOZ24Dx0ZKkagU,delusional,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,2LHNo0LDY2AszQvSuAMXWy,delusional,131274,66,True,2025-07-06T23:01:26.538095
+12,long_term,4zK082ykqJzJGzC64NXjp1,LIKE WEEZY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,115600,75,True,2025-07-06T23:01:26.538100
+13,long_term,240K86W7ysqLlNG9NS7cvQ,Lookbook,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,4Pangd3z0ZrONFpx3zMrFK,XTENDED,150318,59,True,2025-07-06T23:01:26.538105
+14,long_term,4uoADk7q83CHvXHW3k1etM,OLYMPIAN,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,174733,75,True,2025-07-06T23:01:26.538252
+15,long_term,1NaDK3atogQEn9glK5fYuy,Cologne,35l9BRT7MXmM8bv2WDQiyB,beabadoobee,6EBrUVVsjIQD8N0c63mqjv,Our Extended Play,164690,71,True,2025-07-06T23:01:26.538259
+16,long_term,1BpKJw4RZxaFB88NE5uxXf,ILoveUIHateU,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,2QRedhP5RmKJiJ1i8VgDGR,Whole Lotta Red,135122,77,True,2025-07-06T23:01:26.538265
+17,long_term,754kgU5rWscRTfvlsuEwFp,Kiss Me,0lJlKQvuM2Sd9DPPyUXcHg,Sixpence None The Richer,0PrcwzkQVEy4y6JPvT5bix,Sixpence None The Richer,208680,87,False,2025-07-06T23:01:26.538271
+18,long_term,6ovJ4vtrLdONeRoTT4s4uw,more chaos,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),141072,59,True,2025-07-06T23:01:26.538276
+19,long_term,3yk7PJnryiJ8mAPqsrujzf,Location,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,4rJgzzfFHAVFhCSt2P4I3j,Playboi Carti,168783,81,True,2025-07-06T23:01:26.538281
+20,long_term,26AmP3ukYC4Zs9lSGlh55I,Take Me Home,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,4CykmPXyJzacASnoxR33ns,Take me home,200653,74,False,2025-07-06T23:01:26.538286
+21,long_term,3ZuKr1NfTecyfGuYwuXb7c,Freestyle 3,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,4Pangd3z0ZrONFpx3zMrFK,XTENDED,142287,62,True,2025-07-06T23:01:26.538291
+22,long_term,5wPyd3IQAZft1vmxoIqGrU,Home (KOD),699OTQXzgjhIYAHMy9RyPD,Playboi Carti,7dAm8ShwJLFm9SaJ6Yc58O,Die Lit,162133,65,True,2025-07-06T23:01:26.538296
+23,long_term,5WbfFTuIldjL9x7W6y5l7R,Kingston,5szilpXHcwOqnyKLqGco5j,Faye Webster,7jXmmQ1gNTXHyTF7uvH4Tn,Atlanta Millionaires Club,202653,82,False,2025-07-06T23:01:26.538662
+24,long_term,0QQ6KZcR8LmJ41xjhPspwD,OVERDRIVE,0BF8enQYgyFu1pRyNb5n7e,sneak,7cIqcnUP9Sjeoh10Eqbg9M,OVERDRIVE,138598,18,True,2025-07-06T23:01:26.538675
+25,long_term,38tXZcL1gZRfbqfOG0VMTH,How Sweet,6HvZYsbFfjnjFrWF950C9d,NewJeans,0EhZEM4RRz0yioTgucDhJq,How Sweet,219026,79,False,2025-07-06T23:01:26.538681
+26,long_term,1JgkiUg9mSXSwcb5Gbi4Ur,Lean 4 Real (feat. Skepta),"699OTQXzgjhIYAHMy9RyPD,2p1fiYHYiXz9qi0JJyxBzN","Playboi Carti,Skepta",7dAm8ShwJLFm9SaJ6Yc58O,Die Lit,177026,69,True,2025-07-06T23:01:26.539568
+27,long_term,0VaeksJaXy5R1nvcTMh3Xk,"Darling, I (feat. Teezo Touchdown)","4V8LLVI7PbaPR0K2TGSxFF,0fGcIStdT1OpFFhOC7Wp36","Tyler, The Creator,Teezo Touchdown",0U28P0QVB1QRxpqp5IHOlH,CHROMAKOPIA,253834,79,True,2025-07-06T23:01:26.539582
+28,long_term,7BhOHDJq67VFs3LU5TBXDM,HeliMAn,3zEMQISNC2CVEgJo9gAJOV,loveatnight,21hfEgQGgjD7VNPa0mMj8X,HeliMAn,192048,0,True,2025-07-06T23:01:26.539588
+29,long_term,7ejepEh5DJ79YI6owGRfkk,New N3on,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,2QRedhP5RmKJiJ1i8VgDGR,Whole Lotta Red,116360,66,True,2025-07-06T23:01:26.539594
+30,long_term,0SGxi7UBdXqsPpzhQ6PIY9,Nightcore,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),187048,53,True,2025-07-06T23:01:26.539600
+31,long_term,2pC3bWbbDBGkn1l6Zpytvc,popstar,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,1sl7QnYBjvTfYofuhh1KDw,popstar,100420,55,True,2025-07-06T23:01:26.539606
+32,long_term,6evM0cVBkbpmD4ZCuLXauX,Bless Up,089ASSwOW4Cih3frNuDtUv,1oneam,1HvnJa9rrdCe2fqaKRlNPS,One Life,96653,55,True,2025-07-06T23:01:26.539611
+33,long_term,0hhNTyH6RJJGItHeSMCof3,Me N My Kup,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,234032,67,True,2025-07-06T23:01:26.539616
+34,long_term,5yphqi9NLM4r8e4litl07S,Need It,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,0KLk3N51EO7CG7d9MdQ2XE,Flex Musix (FLXTRA),97080,49,True,2025-07-06T23:01:26.539622
+35,long_term,1PUwCOtQUOZrjAp8ljxGhE,Delinquent (feat. Homixide Gang),"3gBZUcNeVumkeeJ19CY2sX,2ojqsY1ycYzZOpLDBBwHPU","Ken Carson,Homixide Gang",191PJkW2uvXGUJPyl9KcdF,X,165411,58,True,2025-07-06T23:01:26.539629
+36,long_term,3j3SfV4hAcR4XjCvW393Gr,POP OUT,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,161738,71,True,2025-07-06T23:01:26.539634
+37,long_term,1TUHiLBQ6CVYZQOgnLjHbM,Viking,7GuUYiGZOzQwq4L6gAfy1T,SahBabii,6PnO5SKESj6TTQWoWr72TA,Saaheem,164571,67,True,2025-07-06T23:01:26.539639
+38,long_term,7HsvTUJcXRQVK6QuALkAvW,Top (feat. Pi'erre Bourne),699OTQXzgjhIYAHMy9RyPD,Playboi Carti,7dAm8ShwJLFm9SaJ6Yc58O,Die Lit,133013,61,True,2025-07-06T23:01:26.539645
+39,long_term,1Bg2CNZw6S4e9cGWPmi0uI,Place,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,2QRedhP5RmKJiJ1i8VgDGR,Whole Lotta Red,117239,68,True,2025-07-06T23:01:26.539650
+40,long_term,663bCnywdjAVMTyIFuwP6b,Coke,089ASSwOW4Cih3frNuDtUv,1oneam,5lK460PBjAfJKtTqgRSkgN,House Party,90431,46,True,2025-07-06T23:01:26.539655
+41,long_term,3IM6Cc6bK88qFYXrF8wh8t,TASTE,4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,6uWva3kfeqqVIsNAJ2MmeL,PLAN A,170447,71,True,2025-07-06T23:01:26.539660
+42,long_term,6Qngg6bjTwTN8FBt7AMLDC,All Star,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,0KLk3N51EO7CG7d9MdQ2XE,Flex Musix (FLXTRA),121690,48,True,2025-07-06T23:01:26.539666
+43,long_term,2qmmnbJ9JR3f7vofbyje5r,Slow Dance,3l0CmX0FuQjFxr8SK7Vqag,Clairo,1KNUCVXgIxKUGiuEB8eG0i,Charm,234853,73,False,2025-07-06T23:01:26.539671
+44,long_term,5xA5MggKc3aQxuOzNzPUWB,Apple Cider,35l9BRT7MXmM8bv2WDQiyB,beabadoobee,475CNcvlqtRpaXjTcn4hCP,Loveworm,178918,80,True,2025-07-06T23:01:26.539677
+45,long_term,2HrrRZ7pk2tK3dxr2Hl1zJ,Tings,15oLsNy8mZYaIukh4eDhXy,Baby Smoove,7tPTdORdHwCOr8hBt3XSn5,Purple Heart,112992,0,True,2025-07-06T23:01:26.539683
+46,long_term,0A5QC5r1AMUccnd34pOlzs,sol,5A7T1LAGJg5NXySBoIKUmF,Che,2V8w3aCddJJbujHgn95Hx7,closed captions,135255,57,True,2025-07-06T23:01:26.539688
+47,long_term,3L0IKstjUgDFVQAbQIRZRv,R.I.P.,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,7dAm8ShwJLFm9SaJ6Yc58O,Die Lit,192026,75,True,2025-07-06T23:01:26.539694
+48,long_term,1IsTAirdLWvepahSLS2RuK,LiveLeak,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,3tIS7SDlvbyJ0oFQzNqjco,More Chaos,190541,63,True,2025-07-06T23:01:26.539699
+49,long_term,4h7Hxf4UpXP4AdDSq7ziSS,Pump Fake,"7e7nmtA3OQEUdVjn5rG3Tz,699OTQXzgjhIYAHMy9RyPD","Ethereal,Playboi Carti",6xqAqJiQNeeFWvTK7rDCGr,Pump Fake,280615,57,True,2025-07-06T23:01:26.539705
+50,long_term,5c53wRvjzKaFBPd8cW06EX,Luv - Bonus,0uj6QiPsPfK8ywLC7uwBE1,OsamaSon,02Mi6lld23cYcBeXbUbo0s,Jump Out (Bonus Tracks),115994,51,True,2025-07-06T23:01:26.539711

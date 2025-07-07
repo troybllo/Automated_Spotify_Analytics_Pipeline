@@ -1,0 +1,51 @@
+rank,time_range,track_id,track_name,artist_ids,artist_names,album_id,album_name,duration_ms,popularity,explicit,extracted_at
+1,short_term,1niQU6ZQCQ7sErJ50BSyVp,fell off (w. plaqueboymax),"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F,71IqH3feYMFpIMEYao0nR8","fivestarmax,5STAR,pbmfromthej",29XYVWnOqqGWHY15UVZ8wR,fell off (w. plaqueboymax),121392,32,True,2025-07-06T23:01:23.396287
+2,short_term,5TsoJj7bFoBbtfYfHpwThH,Inferno,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,156412,60,True,2025-07-06T23:01:23.396314
+3,short_term,76yJsfb1CUy5Um8nFL7jKQ,OPM BABI,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,173076,71,True,2025-07-06T23:01:23.396324
+4,short_term,4zK082ykqJzJGzC64NXjp1,LIKE WEEZY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,115600,75,True,2025-07-06T23:01:23.396333
+5,short_term,161j1a5bY9KRtFG4s5YTHT,Free Young Thug,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,149639,61,True,2025-07-06T23:01:23.396344
+6,short_term,6qUzv0oSt9etWKl6p9v7gf,Swag,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0iNOc23OadZLeGuk1VIz4l,Five Forever (Deluxe),168946,52,True,2025-07-06T23:01:23.396353
+7,short_term,7vn7mg2knnETLga5OhHHwj,Casper,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,197220,62,True,2025-07-06T23:01:23.396361
+8,short_term,6CBurTHmYJhIcDD72Qgjnm,Close to you,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,0kSsLJiSSakbOSZrHGlVRP,Close to you,103441,75,False,2025-07-06T23:01:23.396376
+9,short_term,2eEbWRXbakzlKm1FIP2cl7,backseat,"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F,7pov4fLm5oDEOW60GXwrQg","fivestarmax,5STAR,wayne almighty",4HF83oPwh5Om4exwXCjFur,Five Forever [DELUXE],126131,29,True,2025-07-06T23:01:23.396387
+10,short_term,07bnTdZ6iroLCm4vDZVyb9,Unlucky,7EEefVBNBS3ckwouEl62oB,Lunar Vacation,7j3OfkO7h4uRI2oEhR292P,Unlucky,218093,53,False,2025-07-06T23:01:23.396395
+11,short_term,5116BQqgzOZ24Dx0ZKkagU,delusional,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,2LHNo0LDY2AszQvSuAMXWy,delusional,131274,66,True,2025-07-06T23:01:23.396403
+12,short_term,0EMaW6H0JkB84B8ebkkDrI,Money Spread,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,105191,63,True,2025-07-06T23:01:23.396410
+13,short_term,19SYyMyzU1cl3XXwmIiC8i,Tank Davis,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,159164,57,True,2025-07-06T23:01:23.396418
+14,short_term,3a3zDlE4bgI6ZvU00m6o84,Cross Your Mind,4z1P9QhvHGEJzPhQAjXYPE,Shelly,4THHnIlzoybD2SpgzsAmCX,Shelly 2,228692,69,False,2025-07-06T23:01:23.396425
+15,short_term,5ABrlAFm8bIA3gvUvoc7Sy,Retraite,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,192272,56,True,2025-07-06T23:01:23.396432
+16,short_term,7IAZgW9Z7irtatnww59aL3,Let's Go Shoppin,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,137170,50,True,2025-07-06T23:01:23.396440
+17,short_term,02CUgLutqmue2cayDgmn53,Don't Hold The Fire,2SJhf6rTOU53g8yBdAjPby,SoFaygo,4XF9ZL4bbEp0Ab0yDtYhsA,Don't Hold The Fire,147018,62,True,2025-07-06T23:01:23.396447
+18,short_term,4s4m1kZ7tvbfK6Xx7CWSsv,Fuck Yo Gang,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5DMe4KTlpZN60riRr8hr8g,B4FN,130285,53,True,2025-07-06T23:01:23.396512
+19,short_term,6LWgI1CuVgzrGOnleyjpuM,Back from the Dead,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,140052,46,True,2025-07-06T23:01:23.396772
+20,short_term,0PPsCEAJIaUIHzwi6LkW0e,Supersonic,2ExyJw39EdZWptcMbbg5yz,bruhwhosjack,1YxeDFdcLc7Wurw9oOlPkf,Supersonic,109129,49,True,2025-07-06T23:01:23.396922
+21,short_term,2kgehU3Pkgj6ZiqA0LoaSM,Bon Appétit,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,175943,56,True,2025-07-06T23:01:23.396934
+22,short_term,3j3SfV4hAcR4XjCvW393Gr,POP OUT,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,161738,71,True,2025-07-06T23:01:23.396942
+23,short_term,3qOJebD6l8ONfeFFaEg1kU,Psycho,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,138101,62,True,2025-07-06T23:01:23.396982
+24,short_term,6Fk2X3xMzFmJuYUp0xUBl8,Bosses,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,146795,54,True,2025-07-06T23:01:23.396998
+25,short_term,7MzdamT9kZ3uFFWOLjYN30,En été,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,167105,54,True,2025-07-06T23:01:23.397006
+26,short_term,42ovHG1MWrCXM1WxDBsZqU,brand new,4XYMiEaq0oqFVyBDPfhUfw,Yazida,6MdVJ3hWBLBtfbtLNe2OBd,brand new,101014,48,False,2025-07-06T23:01:23.397015
+27,short_term,12vQWzTNw1MXobLQDgMo72,Glock with a Switch,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,102090,46,True,2025-07-06T23:01:23.397024
+28,short_term,6NLRMu1qF1kJQnntDNWDmy,Lemon Glow,56ZTgzPBDge0OvCGgMO3OY,Beach House,1zN85Ep8w2JORfCe0RHLDP,7,244946,63,False,2025-07-06T23:01:23.397031
+29,short_term,1pglf4ioFVktIoRonCTdLn,Hotspot,14Ah9L7Sei8VOOty0tZrOR,Protect,44jodlDP4L9mvGF6T7wi3i,Ball Hog For Life,127980,45,True,2025-07-06T23:01:23.397038
+30,short_term,6YV4X72hjhWf2SlsQ7Qj8Z,Swag 2,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,137534,57,True,2025-07-06T23:01:23.397058
+31,short_term,6kFVxkQeyPZEdxdRZ0XVfR,Grandson,7GuUYiGZOzQwq4L6gAfy1T,SahBabii,3LALBNNkDv4cEwnUuciMkS,Saaheem (A Lu Bit More),164571,38,True,2025-07-06T23:01:23.397065
+32,short_term,1y5aiIuDFg0SLj7CYjMPOZ,Bleu,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,191040,56,True,2025-07-06T23:01:23.397072
+33,short_term,4uoADk7q83CHvXHW3k1etM,OLYMPIAN,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,174733,75,True,2025-07-06T23:01:23.397079
+34,short_term,5XDSvG2s2G756lRapeTSyC,LANGUAGE,4AWvjlD4iEZ6BUl6dHI5CE,lifelessgarments,1sXfS40XfhpYdj4PCWnT4Y,LIFE IS RAGE,130378,28,True,2025-07-06T23:01:23.397086
+35,short_term,5wotbFovMedDXEMKC4DrHf,Nightcore,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,0HS8aknH0JQdMIiBVhyOCW,A Great Chaos,187048,58,True,2025-07-06T23:01:23.397094
+36,short_term,4A6zEXlSk7xIIqDh92iZ26,It's Our Love,0oK5D6uPhGu4Jk2dbZfodU,Thee Sacred Souls,6Bq78nvB8jyxF9dQIdCahr,Will I See You Again?,227906,70,False,2025-07-06T23:01:23.397101
+37,short_term,6VLjdregMReJhKp2r32IWo,Natural,4z1P9QhvHGEJzPhQAjXYPE,Shelly,6FarB45iYtZTAuzzqGcAU3,Shelly,163764,65,False,2025-07-06T23:01:23.397108
+38,short_term,0iFIwggVF2XlneJ3X9cew2,scream,"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F","fivestarmax,5STAR",6n3OqGwrKa1I8IBcr1125Z,scream,69382,32,True,2025-07-06T23:01:23.397116
+39,short_term,3uJ1OBbQVLmrzzCaWGYLxr,Dismantled,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,144421,59,True,2025-07-06T23:01:23.397123
+40,short_term,6rdIrOFeXM1k1lX6gXrMeQ,Temps De Chasse,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,220775,55,True,2025-07-06T23:01:23.397130
+41,short_term,7jWqCf4iflrMEkjHGWnk1v,"La Loi, C’est La Loi",3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,153743,56,True,2025-07-06T23:01:23.397137
+42,short_term,1ljtQrsf55VCwjqXjro7Po,Another life (feat. Rema),"78rUTD7y6Cy67W1RVzYs7t,46pWGuE3dSwY3bMMXGBvVS","PinkPantheress,Rema",2pOEFqvfxp5uUQ8vQEmVA0,Heaven knows,172173,65,False,2025-07-06T23:01:23.397149
+43,short_term,0JCy7Tt1zeU0Va2g6mde5W,IMY,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5DMe4KTlpZN60riRr8hr8g,B4FN,139867,54,True,2025-07-06T23:01:23.397156
+44,short_term,2XChZSnhG4NfUioTgf0GHh,Chaos,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,216575,41,True,2025-07-06T23:01:23.397163
+45,short_term,4c1LjGTCF8kMEikirzFgkm,toxic,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,58iEeJbYd6OBGRM0TiwltL,A Great Chaos (Deluxe),165353,62,True,2025-07-06T23:01:23.397170
+46,short_term,5F4RzAKcpXosYtr99hGNma,Player,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,133733,46,True,2025-07-06T23:01:23.397177
+47,short_term,040I32EKLxQrkuxQu1pqvT,Saturn,7tYKF4w9nC0nq9CsPZTHyP,SZA,3VQkNrG74QPY4rHBPoyZYZ,SOS Deluxe: LANA,186191,86,False,2025-07-06T23:01:23.397184
+48,short_term,0J8ugLshSx8scqyYkmujI7,Ain't Tellin,0YsYhESxyHC1kuMm9Mbm3C,YT,2BpdVNXzJFaDFE4y7E6X2f,#STILLSWAGGIN,105650,54,False,2025-07-06T23:01:23.397191
+49,short_term,17cv5SkuPTuyqzofP7oIG1,Ron Artest,1C8vGV8yqg7jdS5aiac29R,gloryboy1108,2Itk4PivJjBLjYkxPou92B,Ron Artest,121965,40,True,2025-07-06T23:01:23.397197
+50,short_term,1COq4M4wLZ2H9op9BzpxbG,Evolution,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,193704,60,True,2025-07-06T23:01:23.397204
