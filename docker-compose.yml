@@ -1,0 +1,45 @@
+ version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: spotify_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER:-spotify_user}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-spotify_password}
+      POSTGRES_DB: ${DB_NAME:-spotify_analytics}
+      PGDATA: /var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./docker/postgres/init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U spotify_user -d spotify_analytics"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: spotify_pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@spotify.local
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_CONFIG_SERVER_MODE: 'False'
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+volumes:
+  postgres_data:
+  pgadmin_data:
+
+networks:
+  default:
+    name: spotify_network

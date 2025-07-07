@@ -1,0 +1,15 @@
+{
+  "connections": [
+    {
+      "name": "spotify_analytics",
+      "adapter": "postgresql",
+      "host": "localhost",
+      "port": 5432,
+      "user": "spotify_user",
+      "password": "spotify_password",
+      "database": "spotify_analytics",
+      "projectPaths": ["."],
+      "ssh": null
+    }
+  ]
+}
