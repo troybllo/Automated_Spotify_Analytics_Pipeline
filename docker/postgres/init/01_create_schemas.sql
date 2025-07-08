@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS raw_data.top_tracks (
     explicit BOOLEAN,
     extracted_at TIMESTAMP WITH TIME ZONE,
     load_timestamp TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
-)
+);
 
 
 CREATE TABLE IF NOT EXISTS raw_data.top_artists (
@@ -97,8 +97,7 @@ CREATE TABLE IF NOT EXISTS analytics.fact_plays (
     track_id VARCHAR(50),
     user_listening_session_id INTEGER,
     day_of_week INTEGER,
-    hour_of_day INTEGER,
-
+    hour_of_day INTEGER
 );
 
 CREATE TABLE IF NOT EXISTS analytics.dim_tracks (
@@ -108,6 +107,6 @@ CREATE TABLE IF NOT EXISTS analytics.dim_tracks (
     primary_artist_name TEXT,
     duration_seconds DECIMAL(10,2),
     popularity_score INTEGER,
-    is_explicit BOOLEAN,
+    is_explicit BOOLEAN
 );
 
