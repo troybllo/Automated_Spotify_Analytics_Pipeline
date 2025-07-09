@@ -133,7 +133,7 @@ class SpotifyDataExtractor:
             all_artists[time] = df
 
             filename = (
-                f"top aritsts_{time}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+                f"top_artists{time}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
             )
             filepath = self.data_dir / filename
             df.to_csv(filepath, index=False)

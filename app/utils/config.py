@@ -8,8 +8,8 @@ load_dotenv()
 
 class Settings(BaseSettings):
     # Spotify Credentials
-    spotify_client_id: str = os.getenv("SPOTIFY_CLIENT_ID")
-    spotify_client_secret: str = os.getenv("SPOTIFY_CLIENT_SECRET")
+    spotify_client_id: str = os.getenv("SPOTIFY_CLIENT_ID", "")
+    spotify_client_secret: str = os.getenv("SPOTIFY_CLIENT_SECRET", "")
     spotify_redirect_uri: str = os.getenv(
         "SPOTIFY_REDIRECT_URI", "http://localhost:8888/callback"
     )
