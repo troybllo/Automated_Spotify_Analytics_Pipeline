@@ -1,0 +1,51 @@
+rank,time_range,track_id,track_name,artist_ids,artist_names,album_id,album_name,duration_ms,popularity,explicit,extracted_at
+1,short_term,1niQU6ZQCQ7sErJ50BSyVp,fell off (w. plaqueboymax),"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F,71IqH3feYMFpIMEYao0nR8","fivestarmax,5STAR,pbmfromthej",29XYVWnOqqGWHY15UVZ8wR,fell off (w. plaqueboymax),121392,34,True,2025-07-13T01:19:42.869085
+2,short_term,6qUzv0oSt9etWKl6p9v7gf,Swag,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0iNOc23OadZLeGuk1VIz4l,Five Forever (Deluxe),168946,52,True,2025-07-13T01:19:42.869555
+3,short_term,6CBurTHmYJhIcDD72Qgjnm,Close to you,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,0kSsLJiSSakbOSZrHGlVRP,Close to you,103441,75,False,2025-07-13T01:19:42.869570
+4,short_term,07bnTdZ6iroLCm4vDZVyb9,Unlucky,7EEefVBNBS3ckwouEl62oB,Lunar Vacation,7j3OfkO7h4uRI2oEhR292P,Unlucky,218093,52,False,2025-07-13T01:19:42.869579
+5,short_term,3a3zDlE4bgI6ZvU00m6o84,Cross Your Mind,4z1P9QhvHGEJzPhQAjXYPE,Shelly,4THHnIlzoybD2SpgzsAmCX,Shelly 2,228692,75,False,2025-07-13T01:19:42.869588
+6,short_term,4s4m1kZ7tvbfK6Xx7CWSsv,Fuck Yo Gang,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5DMe4KTlpZN60riRr8hr8g,B4FN,130285,53,True,2025-07-13T01:19:42.869596
+7,short_term,5ABrlAFm8bIA3gvUvoc7Sy,Retraite,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,192272,56,True,2025-07-13T01:19:42.869605
+8,short_term,2eEbWRXbakzlKm1FIP2cl7,backseat,"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F,7pov4fLm5oDEOW60GXwrQg","fivestarmax,5STAR,wayne almighty",4HF83oPwh5Om4exwXCjFur,Five Forever [DELUXE],126131,27,True,2025-07-13T01:19:42.869616
+9,short_term,2kgehU3Pkgj6ZiqA0LoaSM,Bon Appétit,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,175943,56,True,2025-07-13T01:19:42.870062
+10,short_term,5TsoJj7bFoBbtfYfHpwThH,Inferno,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,156412,59,True,2025-07-13T01:19:42.870085
+11,short_term,6VLjdregMReJhKp2r32IWo,Natural,4z1P9QhvHGEJzPhQAjXYPE,Shelly,6FarB45iYtZTAuzzqGcAU3,Shelly,163764,66,False,2025-07-13T01:19:42.870094
+12,short_term,7MzdamT9kZ3uFFWOLjYN30,En été,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,167105,54,True,2025-07-13T01:19:42.870110
+13,short_term,161j1a5bY9KRtFG4s5YTHT,Free Young Thug,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,149639,61,True,2025-07-13T01:19:42.870122
+14,short_term,6NLRMu1qF1kJQnntDNWDmy,Lemon Glow,56ZTgzPBDge0OvCGgMO3OY,Beach House,1zN85Ep8w2JORfCe0RHLDP,7,244946,64,False,2025-07-13T01:19:42.870137
+15,short_term,1y5aiIuDFg0SLj7CYjMPOZ,Bleu,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,191040,56,True,2025-07-13T01:19:42.870147
+16,short_term,2XChZSnhG4NfUioTgf0GHh,Chaos,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,216575,51,True,2025-07-13T01:19:42.870155
+17,short_term,4A6zEXlSk7xIIqDh92iZ26,It's Our Love,0oK5D6uPhGu4Jk2dbZfodU,Thee Sacred Souls,6Bq78nvB8jyxF9dQIdCahr,Will I See You Again?,227906,70,False,2025-07-13T01:19:42.870163
+18,short_term,6rdIrOFeXM1k1lX6gXrMeQ,Temps De Chasse,3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,220775,55,True,2025-07-13T01:19:42.870171
+19,short_term,42ovHG1MWrCXM1WxDBsZqU,brand new,4XYMiEaq0oqFVyBDPfhUfw,Yazida,6MdVJ3hWBLBtfbtLNe2OBd,brand new,101014,48,False,2025-07-13T01:19:42.870179
+20,short_term,0JCy7Tt1zeU0Va2g6mde5W,IMY,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5DMe4KTlpZN60riRr8hr8g,B4FN,139867,54,True,2025-07-13T01:19:42.870188
+21,short_term,76yJsfb1CUy5Um8nFL7jKQ,OPM BABI,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,173076,70,True,2025-07-13T01:19:42.870196
+22,short_term,7jWqCf4iflrMEkjHGWnk1v,"La Loi, C’est La Loi",3x3jSlhyv5CiCZDZlaTq0M,Pi’erre Bourne,0mrnkkp1dYUWc226KXIeBc,Made In Paris,153743,56,True,2025-07-13T01:19:42.870205
+23,short_term,4ZAGw4waA4eWG9zvI1KVgU,Valley,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,109714,53,True,2025-07-13T01:19:42.870212
+24,short_term,5XDSvG2s2G756lRapeTSyC,LANGUAGE,4AWvjlD4iEZ6BUl6dHI5CE,lifelessgarments,1sXfS40XfhpYdj4PCWnT4Y,LIFE IS RAGE,130378,27,True,2025-07-13T01:19:42.870219
+25,short_term,6YV4X72hjhWf2SlsQ7Qj8Z,Swag 2,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,137534,56,True,2025-07-13T01:19:42.870921
+26,short_term,1ljtQrsf55VCwjqXjro7Po,Another life (feat. Rema),"78rUTD7y6Cy67W1RVzYs7t,46pWGuE3dSwY3bMMXGBvVS","PinkPantheress,Rema",2pOEFqvfxp5uUQ8vQEmVA0,Heaven knows,172173,64,False,2025-07-13T01:19:42.870965
+27,short_term,0EMaW6H0JkB84B8ebkkDrI,Money Spread,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,105191,63,True,2025-07-13T01:19:42.870976
+28,short_term,6LWgI1CuVgzrGOnleyjpuM,Back from the Dead,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,140052,46,True,2025-07-13T01:19:42.870998
+29,short_term,7vn7mg2knnETLga5OhHHwj,Casper,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,197220,61,True,2025-07-13T01:19:42.871018
+30,short_term,2de6c5HEW4DPs3dEEABBuF,Tokyo,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,3qOLbJpNyobX33Ynoblb5t,Studio Addict,156223,50,True,2025-07-13T01:19:42.871026
+31,short_term,60WGANAh9ZzJYTHz8B6ya6,My Speakers,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,1NxTac8x8nGxISIPnWomhJ,My Speakers,120816,53,True,2025-07-13T01:19:42.871045
+32,short_term,0iFIwggVF2XlneJ3X9cew2,scream,"1iuurLoajxCVWqPh4Xqs0q,0DVETtFrZ1gvd4OfNNH99F","fivestarmax,5STAR",6n3OqGwrKa1I8IBcr1125Z,scream,69382,31,True,2025-07-13T01:19:42.871066
+33,short_term,19SYyMyzU1cl3XXwmIiC8i,Tank Davis,79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,0zBzGId66SwQWCsPJgNLY1,Five Forever,159164,55,True,2025-07-13T01:19:42.871075
+34,short_term,4zK082ykqJzJGzC64NXjp1,LIKE WEEZY,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,0fSfkmx0tdPqFYkJuNX74a,MUSIC,115600,75,True,2025-07-13T01:19:42.871082
+35,short_term,7t98lQEVYPP58rkubC03Mh,Summer Uptown,"56z8RFFEGWfUFHzvgv70SB,5y8tKLUfMvliMe8IKamR32","jasontheween,d4vd",085rPTSE58Xz9xAUYcfVeZ,Summer Uptown,155364,64,False,2025-07-13T01:19:42.871091
+36,short_term,6MGDifi2vBHgHLpqCUmX16,Anticipate,"0cLrgpG3pW4MX4nD8h6qCc,3l0CmX0FuQjFxr8SK7Vqag","El Michels Affair,Clairo",1hy99Geeqk41ERKiyLz0b1,Anticipate,189284,70,False,2025-07-13T01:19:42.871100
+37,short_term,23U1NtYKg8hYQrZdQoK4nw,U Bad,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5hxsm82crSeeblQs2pK42w,U Bad,142863,49,True,2025-07-13T01:19:42.871110
+38,short_term,3eUJ0dh1qTDgcnAs7Dds6n,Alicia Keys,089ASSwOW4Cih3frNuDtUv,1oneam,1Ug1bln3Gjyg4aHb5bGYhi,One Death,97880,50,True,2025-07-13T01:19:42.871118
+39,short_term,5LyKocU0lhUBlXrFKDxbBO,Snap My Finger (feat. PinkPantheress),"6qgnBH6iDM91ipVXv28OMu,78rUTD7y6Cy67W1RVzYs7t","KAYTRANADA,PinkPantheress",3C3t2bKhwEL3wdKioqWUDh,TIMELESS,201371,72,True,2025-07-13T01:19:42.871126
+40,short_term,15eiKkz8TDnKlM6wJmn2n1,Pretty,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,164468,50,True,2025-07-13T01:19:42.871135
+41,short_term,17cv5SkuPTuyqzofP7oIG1,Ron Artest,1C8vGV8yqg7jdS5aiac29R,gloryboy1108,2Itk4PivJjBLjYkxPou92B,Ron Artest,121965,39,True,2025-07-13T01:19:42.871142
+42,short_term,1SmwJJ8YVgiXtyE6elhUx1,Tokai,5QeCklzEEYSSLWeUxuWeBy,Taeko Onuki,53YDN7b4vQ5MLMSPcnh9Os,SUNSHOWER,310173,58,False,2025-07-13T01:19:42.871164
+43,short_term,1XHkZrMUhl5huvwEu6YUiI,So Many Tears,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,132439,55,True,2025-07-13T01:19:42.871173
+44,short_term,1hGfLiyP85XyiJDHLJP9sV,New Means,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,146666,53,True,2025-07-13T01:19:42.871181
+45,short_term,3qOJebD6l8ONfeFFaEg1kU,Psycho,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,1TiWFnZwyZ152viq7v9C31,More Chaos,138101,62,True,2025-07-13T01:19:42.871188
+46,short_term,6m8NQdtPivRwOggoZlMJ3b,Moshpit,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,4apnTORFFrrRlpXeZQibAf,FOR NOTHING,96690,51,True,2025-07-13T01:19:42.871195
+47,short_term,7IAZgW9Z7irtatnww59aL3,Let's Go Shoppin,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,137170,50,True,2025-07-13T01:19:42.871203
+48,short_term,1q2Eg6vur4gYk8ePcB0Qig,OUR GIRL MIRI J 160BPM,"4XgGyZXiobm9kfKFBdasgm,38BpiXYo0GESioPqkG5xyl","KHYA,Mirasia",6ueQce2FvxXkRishSfv3xA,"MARYJANE, THE REMIXES",201375,52,False,2025-07-13T01:19:42.871211
+49,short_term,0HY2DsAt2ECN3sOlENgD2Q,A Song,6Rs7Ufqb4h0FTuVg6wlqOy,Nine Vicious,5DMe4KTlpZN60riRr8hr8g,B4FN,229868,56,True,2025-07-13T01:19:42.871218
+50,short_term,12vQWzTNw1MXobLQDgMo72,Glock with a Switch,"3iwgpA6jf4fXM5ZuH7qglb,2JJuMFyGSGUltwqf32E8YT","jahhde,Ifys",3BbepA0LB6fp8PaAXFwDnV,Lost Files 4,102090,46,True,2025-07-13T01:19:42.871226

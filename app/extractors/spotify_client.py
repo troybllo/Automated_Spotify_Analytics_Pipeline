@@ -16,8 +16,24 @@ class SpotifyClient:
             redirect_uri=settings.spotify_redirect_uri,
             client_secret=settings.spotify_client_secret,
             scope=" ".join(settings.spotify_scopes),
-            cache_path=".spotify_cache",
+            cache_path="/opt/airflow/.spotify_cache",
+            open_browser=False,
+            show_dialog=False,
         )
+
+        try:
+            token_info = self.auth_manager.get_cached_token()
+            if not token_info:
+                logger.error(
+                    "No cached token found! Please authenticate locally first."
+                )
+                raise Exception(
+                    "No cached Spotify token. Run authentication locally first."
+                )
+        except Exception as e:
+            logger.error(f"Token validation failed: {str(e)}")
+            raise
+
         self.client = spotipy.Spotify(auth_manager=self.auth_manager)
         logger.info("Spotify client initialized successfully")
 
