@@ -1,0 +1,45 @@
+version: 2
+
+sources:
+  - name: spotify_raw
+    database: spotify_analytics
+    schema: raw_data
+    description: "Raw Spotify data loaded from API"
+
+    tables:
+      - name: recently_played
+        description: "Recently played tracks with timestamps"
+        columns:
+          - name: id
+            description: "Primary key"
+          - name: played_at
+            description: "When the track was played"
+          - name: track_id
+            description: "Spotify track ID"
+          - name: track_name
+            description: "Name of the track"
+          - name: artist_ids
+            description: "Comma-separated artist IDs"
+          - name: artist_names
+            description: "Comma-separated artist names"
+          - name: album_id
+            description: "Album ID"
+          - name: album_name
+            description: "Album name"
+          - name: duration_ms
+            description: "Track duration in milliseconds"
+          - name: popularity
+            description: "Track popularity (0-100)"
+          - name: explicit
+            description: "Whether track has explicit content"
+
+      - name: top_tracks
+        description: "User's top tracks by time period"
+        columns:
+          - name: rank
+            description: "Rank within time period"
+          - name: time_range
+            description: "short_term, medium_term, or long_term"
+
+      - name: top_artists
+        description: "User's top artists by time period"

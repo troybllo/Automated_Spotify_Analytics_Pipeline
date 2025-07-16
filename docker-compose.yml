@@ -108,10 +108,41 @@ services:
     user: "0:0"
     volumes:
       - ./airflow:/sources
+  dbt:
+    build:
+      context: ./dbt
+      dockerfile: Dockerfile
+    container_name: spotify_dbt
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DBT_PROFILES_DIR: /usr/app/dbt
+    volumes:
+      - ./dbt:/usr/app/dbt
+      - ./data:/usr/app/data
+    networks:
+      - default
+    command: tail -f /dev/null
+
+  superset:
+    image: apache/superset:latest
+    container_name: spotify_superset
+    environment:
+      - SUPERSET_SECRET_KEY=spotify_secret_key_123
+    ports:
+      - "8088:8088"
+    depends_on:
+      - postgres
+    volumes:
+      - superset_home:/app/superset_home
+    networks:
+      - default
 
 volumes:
   postgres_data:
   pgadmin_data:
+  superset_home:
 
 networks:
   default:
