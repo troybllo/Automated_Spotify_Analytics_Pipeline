@@ -138,7 +138,6 @@ services:
       - superset_home:/app/superset_home
     networks:
       - default
-
 volumes:
   postgres_data:
   pgadmin_data:

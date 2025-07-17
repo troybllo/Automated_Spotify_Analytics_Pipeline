@@ -5,3 +5,28 @@ __pycache__/
 logs/
 .DS_Store
 *.log
+
+# Data files (generated)
+data/raw/
+data/processed/
+
+# dbt generated files
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Spotify cache
+.spotify_cache
+*/.spotify_cache
+
+# Docker volumes
+postgres_data/
+pgadmin_data/
+superset_home/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
