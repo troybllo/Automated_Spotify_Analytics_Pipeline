@@ -100,7 +100,7 @@ The pipeline generates insights including:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/spotify-analytics.git
+git clone https://github.com/troybllo/Automated_Spotify_Analytics_Pipeline.git
 cd spotify-analytics
 
 # Set up environment
