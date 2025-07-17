@@ -182,10 +182,6 @@ spotify-analytics/
 
 ![Top Tracks Screenshot](docs/images/top-tracks.png)
 
-### Audio Features Radar
-
-![Audio Features Screenshot](docs/images/audio-features.png)
-
 ## Challenges & Solutions
 
 | Challenge                  | Solution                                    |
@@ -218,10 +214,6 @@ spotify-analytics/
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

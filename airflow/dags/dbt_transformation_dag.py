@@ -1,7 +1,6 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from airflow.operators.docker import DockerOperator
 
 default_args = {
     'owner': 'spotify-analytics',
@@ -20,42 +19,30 @@ dag = DAG(
 )
 
 # Run dbt deps
-dbt_deps = DockerOperator(
+dbt_deps = BashOperator(
     task_id='dbt_deps',
-    image='spotify_analytics-dbt',
-    command='deps',
-    docker_url='unix://var/run/docker.sock',
-    network_mode='spotify_network',
+    bash_command='cd /opt/airflow && /usr/local/bin/docker-compose run --rm dbt deps',
     dag=dag,
 )
 
-# Run dbt models
-dbt_run = DockerOperator(
+# Run dbt models  
+dbt_run = BashOperator(
     task_id='dbt_run',
-    image='spotify_analytics-dbt',
-    command='run',
-    docker_url='unix://var/run/docker.sock',
-    network_mode='spotify_network',
+    bash_command='cd /opt/airflow && /usr/local/bin/docker-compose run --rm dbt run',
     dag=dag,
 )
 
 # Test dbt models
-dbt_test = DockerOperator(
-    task_id='dbt_test',
-    image='spotify_analytics-dbt',
-    command='test',
-    docker_url='unix://var/run/docker.sock',
-    network_mode='spotify_network',
+dbt_test = BashOperator(
+    task_id='dbt_test', 
+    bash_command='cd /opt/airflow && /usr/local/bin/docker-compose run --rm dbt test',
     dag=dag,
 )
 
 # Generate docs
-dbt_docs = DockerOperator(
+dbt_docs = BashOperator(
     task_id='dbt_docs_generate',
-    image='spotify_analytics-dbt',
-    command='docs generate',
-    docker_url='unix://var/run/docker.sock',
-    network_mode='spotify_network',
+    bash_command='cd /opt/airflow && /usr/local/bin/docker-compose run --rm dbt docs generate',
     dag=dag,
 )
 
